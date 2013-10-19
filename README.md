@@ -1,4 +1,4 @@
-# escomplex
+# escomplex-traits
 
 [![Build status][ci-image]][ci-status]
 
