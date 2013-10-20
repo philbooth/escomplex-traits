@@ -1,6 +1,6 @@
 {
     "name": "escomplex-traits",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Traits for escomplex AST walkers.",
     "homepage": "https://github.com/philbooth/escomplex-traits",
     "bugs": "https://github.com/philbooth/escomplex-traits/issues",
