@@ -11,7 +11,7 @@ modulePath = '../src';
 mockery.registerAllowable(modulePath);
 
 suite('index:', function () {
-    var log, operandsMock, operatorsMock;
+    var log;
 
     setup(function () {
         log = {};
@@ -36,6 +36,7 @@ suite('index:', function () {
         mockery.deregisterMock('./operands');
         mockery.deregisterMock('./operators');
         mockery.disable();
+        log = undefined;
     });
 
     test('require does not throw', function () {
