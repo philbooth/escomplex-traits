@@ -119,8 +119,8 @@ suite('index:', function () {
                 assert.strictEqual(result.lloc, 'koda');
             });
 
-            test('complexity was correct', function () {
-                assert.strictEqual(result.complexity, 'basanda');
+            test('cyclomatic was correct', function () {
+                assert.strictEqual(result.cyclomatic, 'basanda');
             });
 
             test('operators was correct', function () {
@@ -179,8 +179,8 @@ suite('index:', function () {
                 assert.strictEqual(result.lloc, '1');
             });
 
-            test('complexity was correct', function () {
-                assert.strictEqual(result.complexity, '2');
+            test('cyclomatic was correct', function () {
+                assert.strictEqual(result.cyclomatic, '2');
             });
 
             test('children was correct', function () {
