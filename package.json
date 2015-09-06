@@ -2,14 +2,14 @@
     "name": "escomplex-traits",
     "version": "0.2.0",
     "description": "Traits for escomplex AST walkers.",
-    "homepage": "https://github.com/philbooth/escomplex-traits",
-    "bugs": "https://github.com/philbooth/escomplex-traits/issues",
+    "homepage": "https://github.com/jared-stilwell/escomplex-traits",
+    "bugs": "https://github.com/jared-stilwell/escomplex-traits/issues",
     "license": "MIT",
     "author": "Phil Booth <pmbooth@gmail.com> (https://github.com/philbooth)",
     "main": "./src",
     "repository": {
         "type": "git",
-        "url": "https://github.com/philbooth/escomplex-traits.git"
+        "url": "https://github.com/jared-stilwell/escomplex-traits.git"
     },
     "keywords": [
         "escomplex",

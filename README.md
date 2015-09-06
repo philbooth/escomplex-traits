@@ -2,16 +2,14 @@
 
 [![Build status][ci-image]][ci-status]
 
-**NOTE: This project is no longer maintained. If you're interested in taking ownership, please contact me.**
-
 Traits for [escomplex][escomplex] AST walkers.
 
 ## License
 
 [MIT][license]
 
-[ci-image]: https://secure.travis-ci.org/philbooth/escomplex-traits.png?branch=master
-[ci-status]: http://travis-ci.org/#!/philbooth/escomplex-traits
-[escomplex]: https://github.com/philbooth/escomplex
-[license]: https://github.com/philbooth/escomplex-traits/blob/master/COPYING
+[ci-image]: https://secure.travis-ci.org/jared-stilwell/escomplex-traits.png?branch=master
+[ci-status]: http://travis-ci.org/#!/jared-stilwell/escomplex-traits
+[escomplex]: https://github.com/jared-stilwell/escomplex
+[license]: https://github.com/jared-stilwell/escomplex-traits/blob/master/COPYING
 
