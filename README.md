@@ -1,8 +1,10 @@
 # escomplex-traits
 
-[![Build status][ci-image]][ci-status]
+:exclamation: :anguished: :exclamation: :anguished: :exclamation: :anguished: :exclamation: :anguished: :exclamation: :anguished: :exclamation: :anguished: :exclamation: :anguished: :exclamation: :anguished: :exclamation: :anguished: :exclamation: :anguished: :exclamation:
 
-**NOTE: This project is no longer maintained. If you're interested in taking ownership, please contact me.**
+**NOTE: This fork is no longer maintained. Use [Jared's fork](https://github.com/jared-stilwell/escomplex-traits) instead.**
+
+:exclamation: :anguished: :exclamation: :anguished: :exclamation: :anguished: :exclamation: :anguished: :exclamation: :anguished: :exclamation: :anguished: :exclamation: :anguished: :exclamation: :anguished: :exclamation: :anguished: :exclamation: :anguished: :exclamation:
 
 Traits for [escomplex][escomplex] AST walkers.
 
@@ -10,8 +12,5 @@ Traits for [escomplex][escomplex] AST walkers.
 
 [MIT][license]
 
-[ci-image]: https://secure.travis-ci.org/philbooth/escomplex-traits.png?branch=master
-[ci-status]: http://travis-ci.org/#!/philbooth/escomplex-traits
 [escomplex]: https://github.com/philbooth/escomplex
 [license]: https://github.com/philbooth/escomplex-traits/blob/master/COPYING
-
